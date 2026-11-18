@@ -1,0 +1,8 @@
+sources:
+  - name: G1
+    url: https://g1.globo.com
+    rss: https://g1.globo.com/rss/g1/
+
+  - name: BBC News
+    url: https://www.bbc.com/news
+    rss: https://feeds.bbci.co.uk/news/rss.xml
